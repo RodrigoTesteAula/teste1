@@ -1,2 +1,2 @@
 Este é nosso exemplo 2
-este é editado pelo principal
+Este também é editado pelo clone
