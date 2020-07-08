@@ -3,3 +3,7 @@ Este é editado pelo clone
 Editado agora por aulagit
 
 Vou editar a linha 5 no aulagit
+
+
+
+Vou editar o clonegit na linha 8
