@@ -1,1 +1,2 @@
 Este é nosso exemplo 2
+este é editado pelo principal
