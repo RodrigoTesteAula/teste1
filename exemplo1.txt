@@ -1,9 +1,1 @@
-Este é nosso exemplo 1 - ALTERADO Pelo repositório clonegit 
-Este é editado pelo clone
-Editado agora por aulagit
-
-Vou editar a linha 5 no aulagit
-
-
-
-Vou editar o clonegit na linha 8
+Esta é a nova versão do aulagit...
